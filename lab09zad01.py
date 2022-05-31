@@ -13,7 +13,7 @@ secret_message = "to us."
 secret_image = lsbset.hide("./10MB.jpg", secret_message, generators.eratosthenes())
 secret_image.save("./10MB.jpg")
 
-"""
+""" Sposób erastotenesa wyżej | Sposób LSB niżej
 from stegano import lsb
 
 secret = lsb.hide("./test/100KB.png", "All your")
