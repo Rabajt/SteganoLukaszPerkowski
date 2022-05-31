@@ -13,3 +13,5 @@ LSB - 2 Tura
 Szyfrowanie generatorem eratostenesa - 3 Tura
 
 LSB - 4 Tura
+
+LSB było odczytywane szybciej, jednak erastostenesem pliki nie były powiększone w tak dużym stopniu.
